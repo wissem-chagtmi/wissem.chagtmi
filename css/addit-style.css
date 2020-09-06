@@ -48,3 +48,6 @@
 .my-img{
   transform: translateY(-20%);
 }
+html, body{
+  scroll-behavior: smooth;
+}
