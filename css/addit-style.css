@@ -46,7 +46,7 @@
   height: 40px;
 }
 .my-img{
-  transform: translateY(-20%);
+  transform: translateY(-30%);
 }
 html, body{
   scroll-behavior: smooth;
