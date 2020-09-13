@@ -51,3 +51,6 @@
 html, body{
   scroll-behavior: smooth;
 }
+.d-n{
+  display: none;
+}

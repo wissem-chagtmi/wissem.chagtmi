@@ -2333,9 +2333,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 }
 .facts-area{
-  background: -moz-linear-gradient(0deg, #4800B3 0%, #F445A9 100%);
-  background: -webkit-linear-gradient(0deg, #4800B3 0%, #F445A9 100%);
-  background: -ms-linear-gradient(0deg, #4800B3 0%, #F445A9 100%);
+  background: -moz-linear-gradient(0deg, #4800B3 0%, #F445A9 100%)!important;
+  background: -webkit-linear-gradient(0deg, #4800B3 0%, #F445A9 100%)!important;
+  background: -ms-linear-gradient(0deg, #4800B3 0%, #F445A9 100%)!important;
 }
 .p1-gradient-color, .single-services:hover .lnr {
   background: -moz-linear-gradient(0deg, #0074E4 0%, #00FFFF 100%);
